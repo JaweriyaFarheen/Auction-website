@@ -1,0 +1,23 @@
+button {
+    padding: 10px 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 50px;
+    background-color: #140965;
+    color: #dedbe1;
+    cursor: pointer;
+    width: 50%;
+    
+ }
+  input {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #d1cccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 50%;
+  }
+ button:hover {
+    background-color: #140965;
+  }
+ 
